@@ -4,7 +4,7 @@
   <title><![CDATA[Abhijeet Misra's Blog]]></title>
   <link href="http://abhijeetmisra.github.com/atom.xml" rel="self"/>
   <link href="http://abhijeetmisra.github.com/"/>
-  <updated>2012-05-29T04:54:31+05:30</updated>
+  <updated>2012-05-29T04:59:18+05:30</updated>
   <id>http://abhijeetmisra.github.com/</id>
   <author>
     <name><![CDATA[Abhijeet Misra]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://abhijeetmisra.github.com/blog/2012/05/29/first-post/"/>
+    <updated>2012-05-29T04:55:00+05:30</updated>
+    <id>http://abhijeetmisra.github.com/blog/2012/05/29/first-post</id>
+    <content type="html"><![CDATA[<h1><HEAD>Test Header</HEAD></h1>
+
+<blockquote><p>Test Blockquote</p></blockquote>
+
+<h1>p Next Paragraph</h1>
+]]></content>
+  </entry>
   
 </feed>
