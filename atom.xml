@@ -4,7 +4,7 @@
   <title><![CDATA[ABHIJEET MISRA]]></title>
   <link href="http://abhijeetmisra.github.com/atom.xml" rel="self"/>
   <link href="http://abhijeetmisra.github.com/"/>
-  <updated>2012-05-31T05:22:46+05:30</updated>
+  <updated>2012-06-14T13:00:11+05:30</updated>
   <id>http://abhijeetmisra.github.com/</id>
   <author>
     <name><![CDATA[Abhijeet Misra]]></name>
@@ -21,6 +21,12 @@
     <content type="html"><![CDATA[<h2>Second Blog</h2>
 
 <p>This is stub</p>
+
+<h1>Demo H1</h1>
+
+<h2>Demo H2</h2>
+
+<p>this is <em>emphasis</em> and this <em>*italics</em></p>
 ]]></content>
   </entry>
   
